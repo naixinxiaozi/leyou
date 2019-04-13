@@ -3,6 +3,8 @@ server:
 spring:
   application:
     name: leyou-config
+  profiles:
+    active: native
   cloud:
     config:
       server:
@@ -11,7 +13,7 @@ spring:
   #        git:
 #          uri: https://github.com/lyj8330328/leyou-config.git
   rabbitmq:
-    host: 192.168.19.121
+    host: 127.0.0.1
     username: /leyou
     password: leyou
     virtual-host: /leyou

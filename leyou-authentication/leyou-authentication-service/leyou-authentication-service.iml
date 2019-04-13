@@ -185,10 +185,10 @@
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-stream-binder-rabbit:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-stream-binder-rabbit-core:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-amqp:2.1.0.M4" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-amqp:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.amqp:spring-rabbit:2.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.amqp:spring-amqp:2.0.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: com.rabbitmq:amqp-client:5.1.2" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-amqp:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.integration:spring-integration-jmx:5.0.7.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-starter-actuator:2.0.0.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-actuator-autoconfigure:2.0.4.RELEASE" level="project" />
